@@ -1,0 +1,17 @@
+.selectInput{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  align-items: center;
+}
+.selectInput select{
+  width: 60%;
+
+}
+.selectInput__color{
+  width: 60%;
+}
+.selectInput__image{
+  width: 60%;
+}

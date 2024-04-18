@@ -1,0 +1,98 @@
+{
+  "clothes": [
+    {
+      "id": "1",
+      "type": "Majica kratkih rukava",
+      "size": "M",
+      "color": "#ffffff",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS7d4sL5-c4eNo9QVGJyMn6oJf32p97gWDxp2Pez2XGg&s"
+    },
+    {
+      "id": "2",
+      "type": "Majica dugih rukava",
+      "size": "L",
+      "color": "#0000ff",
+      "image": "https://m.media-amazon.com/images/I/617QNqaZhUL._AC_SX466_.jpg"
+    },
+    {
+      "id": "3",
+      "type": "Hlaće",
+      "size": "L",
+      "color": "#000000",
+      "image": "https://cdn.shopify.com/s/files/1/2991/4042/products/2-1066_BLACK_1_desktop_7c8cc363-d32e-4718-9fa2-c842f80e00ab.jpg?v=1702009894"
+    },
+    {
+      "id": "4",
+      "type": "Jakna",
+      "size": "XL",
+      "color": "#1e154a",
+      "image": "https://pevex.hr/Documents/Products/60016/355748_2.jpg?t=1657279222"
+    },
+    {
+      "id": "3709",
+      "type": "Bunda",
+      "size": "L",
+      "color": "#000000",
+      "image": "https://img.modivo.cloud/product(3/f/1/1/3f11d5747c7420f2b315716099ed5e38d347bcf2_20_5715372777980_RP.jpg,webp)/solid-pernata-jakna-21107078-crna-regular-fit-0000302905300.webp"
+    },
+    {
+      "id": "c01a",
+      "type": "Jakna",
+      "size": "XL",
+      "color": "#4ec2f4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Gxw58SebqH0pQN1YZB7ng2iBt8bLcfOASNE1gsajjw&s"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "name": "Majica kratkih rukava"
+    },
+    {
+      "id": "2",
+      "name": "Majica dugih rukava"
+    },
+    {
+      "id": "3",
+      "name": "Bunda"
+    },
+    {
+      "id": "4",
+      "name": "Jakna"
+    },
+    {
+      "id": "5",
+      "name": "Hlaće"
+    },
+    {
+      "id": "6",
+      "name": "Košulja"
+    },
+    {
+      "id": "7",
+      "name": "Kratke hlače"
+    }
+  ],
+  "sizes": [
+    {
+      "id": "1",
+      "name": "S"
+    },
+    {
+      "id": "2",
+      "name": "M"
+    },
+    {
+      "id": "3",
+      "name": "L"
+    },
+    {
+      "id": "4",
+      "name": "XL"
+    },
+    {
+      "id": "5",
+      "name": "XXL"
+    }
+  ]
+}
